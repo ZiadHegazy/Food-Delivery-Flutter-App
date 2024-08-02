@@ -8,6 +8,8 @@ This is a food delivery application in which users can add products to their car
 
 ## Application View
 Here are some screenshots of the application
+
+
 ![Example Image](./deployImages/dep1.jpeg)
 ![Example Image](./deployImages/dep2.jpeg)
 ![Example Image](./deployImages/dep3.jpeg)
